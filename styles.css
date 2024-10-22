@@ -82,12 +82,6 @@ header {
     transform: scale(1.05);
 }
 
-/* Responsividade */
-@media (max-width: 768px) {
-    .chamada {
-        flex-direction: column;
-    }
-
     .categoria-videos {
         flex-direction: column;
         align-items: center;
