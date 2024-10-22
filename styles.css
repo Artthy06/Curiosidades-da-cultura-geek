@@ -1,11 +1,11 @@
 /* Definição de cores */
 :root {
-    --primary-color: #f0f4f8; /* Fundo principal (azul claro) */
-    --secondary-color: #ffffff; /* Fundo das seções */
-    --accent-color: #1e90ff; /* Azul para detalhes e links */
-    --text-color: #333333; /* Texto escuro para contraste */
-    --header-bg-color: #1e90ff; /* Fundo do cabeçalho */
-    --header-text-color: #ffffff; /* Cor do texto do cabeçalho */
+    --primary-color: #000000; /* Fundo principal (preto) */
+    --secondary-color: #1a1a1a; /* Fundo das seções (preto mais claro) */
+    --accent-color: #ff0000; /* Vermelho para detalhes e links */
+    --text-color: #ffffff; /* Texto branco para contraste */
+    --header-bg-color: #ff0000; /* Fundo do cabeçalho (vermelho) */
+    --header-text-color: #ffffff; /* Cor do texto do cabeçalho (branco) */
 }
 
 /* Estilos gerais */
